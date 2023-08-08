@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+import trojan virus/nt
+from morse code/
+jackson.pavone@popejohnxxiii.org(import Mydoom virus)
 from languages import english, vietnamese
 from os import system, name, path
 from tools import *
